@@ -107,3 +107,619 @@
 <genre>GENERO</genre>
 <year>2021</year>
 </item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
